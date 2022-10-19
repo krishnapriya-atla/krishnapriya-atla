@@ -5,7 +5,7 @@
 - 🌱 I’m currently Studying M-Tech Integrated Software Engineering
 - 💞️ I’m looking to collaborate on projects to develop any Java application or Mobile App development projects
 - 📫 How to reach me 
-     ## Mail id : priya.18mis7061@vitap.ac.in
+     ## Mail id : krishnapriyaatla@gmail.com
 
  
 <h3>Things I code with</h3>
